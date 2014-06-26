@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="1" hostname="localhost.localdomain" id="0" name="CarreraControllerTests" package="control" tests="1" time="0.665" timestamp="2013-09-18T23:03:47">
+      <properties />
+
+      <testcase classname="control.CarreraControllerTests" name="testSomething" time="0.661">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at control.CarreraControllerTests.testSomething(CarreraControllerTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="localhost.localdomain" id="1" name="CarreraTests" package="control" tests="1" time="1.522" timestamp="2013-09-18T23:03:43">
+      <properties />
+
+      <testcase classname="control.CarreraTests" name="testSomething" time="1.272">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at control.CarreraTests.testSomething(CarreraTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="localhost.localdomain" id="2" name="FacultadControllerTests" package="control" tests="1" time="5.221" timestamp="2013-09-18T23:03:38">
+      <properties />
+
+      <testcase classname="control.FacultadControllerTests" name="testSomething" time="4.392">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at control.FacultadControllerTests.testSomething(FacultadControllerTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="localhost.localdomain" id="3" name="FacultadTests" package="control" tests="1" time="0.68" timestamp="2013-09-18T23:03:47">
+      <properties />
+
+      <testcase classname="control.FacultadTests" name="testSomething" time="0.245">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at control.FacultadTests.testSomething(FacultadTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="localhost.localdomain" id="4" name="UniversidadControllerTests" package="control" tests="1" time="1.102" timestamp="2013-09-18T23:03:45">
+      <properties />
+
+      <testcase classname="control.UniversidadControllerTests" name="testSomething" time="0.655">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at control.UniversidadControllerTests.testSomething(UniversidadControllerTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="localhost.localdomain" id="5" name="UniversidadTests" package="control" tests="1" time="0.518" timestamp="2013-09-18T23:03:45">
+      <properties />
+
+      <testcase classname="control.UniversidadTests" name="testSomething" time="0.217">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at control.UniversidadTests.testSomething(UniversidadTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
